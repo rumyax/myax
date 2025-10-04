@@ -1,0 +1,14 @@
+{
+    "run": {
+        "<key>": {
+            "path": "<path/to/repo>",
+            "cmd": "<command/to/run>"
+        }
+    },
+
+    "ssh-keys-path": "<path/to/ssh-keys>",
+
+    "ssh": {
+        "<key>": "<user>@<host>"
+    }
+}
