@@ -1,0 +1,8 @@
+{
+    "run": {
+        "<key>": {
+            "path": "<path/to/repo>",
+            "cmd": "<command/to/run>"
+        }
+    }
+}
